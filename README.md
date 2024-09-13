@@ -1,4 +1,4 @@
-# EDA-Assignment
+# EDA-Assignment (Credit Analysis)
 
 # **Problem Statement - I**
 
